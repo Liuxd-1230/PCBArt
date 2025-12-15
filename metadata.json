@@ -1,0 +1,5 @@
+{
+  "name": "PCB Art Simulator",
+  "description": "A specialized tool to simulate PCB manufacturing layers from images, mapping colors to industry-standard solder masks, silkscreens, and surface finishes.",
+  "requestFramePermissions": []
+}
