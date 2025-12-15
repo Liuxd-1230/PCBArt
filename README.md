@@ -28,7 +28,7 @@
 
 ## 🚀 快速开始
 
-> 使用https://liuxd-1230.github.io/PICtoPCB/ 快速开始
+> 使用**https://liuxd-1230.github.io/PICtoPCB/** 快速开始
 
 ### 1. 启动项目
 
